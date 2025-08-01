@@ -44,6 +44,6 @@ Random image visualization with prediction
 
 ---
 
-## Author
+## 👤 Author
 Shaik Shabnam 
 Internship at SkillCraft Technology
